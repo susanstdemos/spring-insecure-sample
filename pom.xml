@@ -1019,7 +1019,7 @@
 		<db.name>spring_insecure_sample</db.name>
 		<!-- Framework dependency versions -->
 		<appfuse.version>2.2.1</appfuse.version>
-		<commons.fileupload.version>1.2.1</commons.fileupload.version>
+		<commons.fileupload.version>1.3.3</commons.fileupload.version>
 		<commons.io.version>1.3.2</commons.io.version>
 		<displaytag.version>1.2</displaytag.version>
 		<spring.version>3.1.3.RELEASE</spring.version>
