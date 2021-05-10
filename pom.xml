@@ -1063,7 +1063,7 @@
 		<ehcache.web.version>2.0.4</ehcache.web.version>
 		<hibernate.search.version>4.1.1.Final</hibernate.search.version>
 		<hibernate.version>4.1.8.Final</hibernate.version>
-		<javamail.version>1.4.1</javamail.version>
+		<javamail.version>1.4.7</javamail.version>
 		<jpa.version>2.0-cr-1</jpa.version>
 		<jstl.version>1.2</jstl.version>
 		<log4j.version>1.2.17</log4j.version>
